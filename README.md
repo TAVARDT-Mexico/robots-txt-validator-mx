@@ -1,4 +1,4 @@
-# Validador de Robots.txt y Directivas de Rastreo | TAVARDT Mexico
+# Validador de Robots.txt y Directivas de Rastreo
 
 [![Validador Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para verificar archivos robots.txt en tiempo real:
 ## Consultoria en Rastreabilidad Web
 
 Para arquitectura de rastreo perimetral y mejores practicas segun Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
