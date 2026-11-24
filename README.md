@@ -24,7 +24,7 @@ Desarrollado y mantenido por el equipo de ingenieria web y rastreabilidad de **T
 Requiere Python 3.8 o superior con la biblioteca estandar.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/robots-txt-validator-mx.git
+git clone https://github.com/TAVARDT/robots-txt-validator-mx.git
 cd robots-txt-validator-mx
 python robots_validator.py https://ejemplo.mx
 ```
