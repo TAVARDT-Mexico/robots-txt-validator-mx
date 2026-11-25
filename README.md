@@ -2,6 +2,7 @@
 
 [![Validador Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Inspeccion de directivas robots.txt para asegurar el acceso adecuado de rastreadores y evitar desindexaciones no planificadas en Mexico.
 
@@ -57,6 +58,11 @@ Para arquitectura de rastreo perimetral y mejores practicas segun Estandares Web
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el arquivo [LICENSE](LICENSE) para obtener más detalles.
 
 ***
 
