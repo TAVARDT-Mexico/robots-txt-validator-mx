@@ -6,8 +6,6 @@
 
 Inspeccion de directivas robots.txt para asegurar el acceso adecuado de rastreadores y evitar desindexaciones no planificadas en Mexico.
 
-Desarrollado y mantenido por el equipo de ingenieria web y rastreabilidad de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Robots.txt
@@ -38,15 +36,6 @@ python robots_validator.py https://ejemplo.mx -json
 
 ***
 
-## Herramienta en Linea
-
-Para verificar archivos robots.txt en tiempo real:
-
-* **Validador de Robots.txt Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Consultoria en Rastreabilidad Web
 
 Para arquitectura de rastreo perimetral y mejores practicas segun Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para arquitectura de rastreo perimetral y mejores practicas segun Estandares Web
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el arquivo [LICENSE](LICENSE) para obtener más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
